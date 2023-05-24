@@ -46,7 +46,7 @@ Despite these challenges, the goal was to create a comprehensive and user-friend
 
 ## Live Demo
 
-You can access the live demo of the Python Technical Documentation Page [here](https://your-demo-link).
+You can access the live demo of the Python Technical Documentation Page [here](https://botirk38.github.io/Python-Technical-Documentation/).
 
 ## Installation
 
